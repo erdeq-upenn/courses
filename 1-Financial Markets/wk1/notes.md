@@ -30,13 +30,12 @@ It's a method of assessing risks to firms or portfolios.
 
 
 ### S&P 500
-1. It's an average of 500 stocks
->It's an average of 500 stocks. So if they were all independent of each other, the **Law of Large Numbers** would make the stock market as a whole almost constant.   
+1. It's an average of 500 stocks    
+> It's an average of 500 stocks. So if they were all independent of each other, the **Law of Large Numbers** would make the stock market as a whole almost constant.   
 2. Noise of returns   
 variance of Apple vs. SP 500
 covariance with a regression line
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 3. **Fundamental concept $\beta$**   
 The CAPM implies the that the expected return on the ith asset is determined on its beta
 $\beta_i$ is the regression slop Coefficient when the return on its ith asset is regressed on the return of the markets
