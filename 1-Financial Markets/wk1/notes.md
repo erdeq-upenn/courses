@@ -36,9 +36,14 @@ It's a method of assessing risks to firms or portfolios.
 variance of Apple vs. SP 500
 covariance with a regression line
 <<<<<<< HEAD
+<<<<<<< HEAD
 3. **Fundamental concept $\beta$**   
 The CAPM implies the that the expected return on the ith asset is determined on its beta
 $\beta_i$ is the regression slop Coefficient when the return on its ith asset is regressed on the return of the markets
+=======
+3. **Fundamental concept**   
+This is \\ (x=\beta \\)
+>>>>>>> 4d745c1c4c3548554b37c15c39419f9ca45f3be6
 =======
 3. **Fundamental concept**   
 This is \\ (x=\beta \\)
