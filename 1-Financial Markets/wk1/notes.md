@@ -1,3 +1,16 @@
+<!--将该代码放入博客模板的head中即可-->
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+tex2jax: {
+  inlineMath: [['$','$'], ['\\(','\\)']],
+  processEscapes: true
+  }
+});
+</script>
+<!--latex数学显示公式-->
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
 Financial Markets
 ===
 by Robert Shiller
@@ -39,7 +52,7 @@ The CAPM implies the that the expected return on the ith asset is determined on 
 $\beta_i$ is the regression slop Coefficient when the return on its ith asset is regressed on the return of the markets
 
 4. least square method for regression    
-$y = mx+B$ in finance y called return of a stock, x rerutn of the market, slope m as $\beta$, B is called $alpha$.    $\beta$ is the measurement of systematic risk. 
+$y = mx+B$ in finance y called return of a stock, x rerutn of the market, slope m as $\beta$, B is called $alpha$.    $\beta$ is the measurement of systematic risk.
 5. Slope beta tells how much a particular stock co-moves with the market and thus as a measure of the stock systematic risk.
 
 ### Joe McNay Story
