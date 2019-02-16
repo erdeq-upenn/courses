@@ -1,5 +1,3 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
 Financial Markets
 ===
 by Robert Shiller
@@ -30,7 +28,7 @@ It's a method of assessing risks to firms or portfolios.
 
 
 ### S&P 500
-1. It's an average of 500 stocks    
+1. It's an average of 500 stocks
 > It's an average of 500 stocks. So if they were all independent of each other, the **Law of Large Numbers** would make the stock market as a whole almost constant.   
 2. Noise of returns   
 variance of Apple vs. SP 500
