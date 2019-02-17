@@ -1,7 +1,7 @@
 Financial Markets
 ===
 by Robert Shiller
-
+# Week 1
 ## Lesson 1
 
 1. Finance is to make things happen rather than just make money
@@ -14,22 +14,23 @@ by Robert Shiller
 
 ### VaR and Stress test
 1. VaR meaning : variance or value at risk
->In finance, some people use VAR for 'value at risk' and this term is relatively new. It didn't appear until after the stock market crash of 1987. And so, it's a measure used by some finance people to quantify risk of of an investment or of a portfolio and it's quoted in units of dollars for a given probability and time horizon. 1% one year VaR at 10 M.
+    >In finance, some people use VAR for 'value at risk' and this term is relatively new. It didn't appear until after the stock market crash of 1987. And so, it's a measure used by some finance people to quantify risk of of an investment or of a portfolio and it's quoted in units of dollars for a given probability and time horizon. 1% one year VaR at 10 M.
 
 2. Stress test:
 It's a method of assessing risks to firms or portfolios.
->Office of Federal Housing Enterprise Oversight actually was doing stress tests on Fannie Mae and Freddie Mac before the 2008 crisis.   
->The Dodd-Frank Act in the United States of 2010 requires the Federal Reserve to do annual stress tests for non-bank financial institutions it supervises.    
->The Dodd-Frank Wall Street Reform and Consumer Protection Act was passed into Federal law on July 21, 2010 as a response to the financial crisis of 2007 to 2008. This Act constitutes the most significant changes to U.S. financial regulation since the regulatory reform that followed the Great Depression.
+    >Office of Federal Housing Enterprise Oversight actually was doing stress tests on Fannie Mae and Freddie Mac before the 2008 crisis.   
+    > The Dodd-Frank Act in the United States of 2010 requires the Federal Reserve to do annual stress tests for non-bank financial institutions it supervises.    
+    >The Dodd-Frank Wall Street Reform and Consumer Protection Act was passed into Federal law on July 21, 2010 as a response to the financial crisis of 2007 to 2008. This Act constitutes the most significant changes to U.S. financial regulation since the regulatory reform that followed the Great Depression.
 
 3. The stress test is a test usually ordered by government to see how some firm will stand up to a financial crisis.
->what would happen if there were a severe recession, or what would happen if the dollar depreciated or appreciated, or what would happen if there's a short term liquidity crisis with suddenly ability to borrow money in the short term dries up.    
->The Dodd-Frank Act gave regulators, the Office of Financial Research subpoena power, so they can go in there and demand information from firms.
+    >what would happen if there were a severe recession, or what would happen if the dollar depreciated or appreciated, or what would happen if there's a short term liquidity crisis with suddenly ability to borrow money in the short term dries up.    
+    >The Dodd-Frank Act gave regulators, the Office of Financial Research subpoena power, so they can go in there and demand information from firms.
 
 
 ### S&P 500
 1. It's an average of 500 stocks
-> It's an average of 500 stocks. So if they were all independent of each other, the **Law of Large Numbers** would make the stock market as a whole almost constant.   
+    > It's an average of 500 stocks. So if they were all independent of each other, the **Law of Large Numbers** would make the stock market as a whole almost constant.   
+
 2. Noise of returns   
 variance of Apple vs. SP 500
 covariance with a regression line
@@ -65,3 +66,44 @@ $Cov(X,Y) =\sum_{i=1}^np_i(x_i-E(X))(y_i-E(Y))$
 7. **Risk is determined by covariance.**
 8. $\beta_i=\frac{Cov(r,r_{market})}{var(r_{market})}$
 CAMP said that the market demands higher returns form higher beta stock. [risk averse]
+
+## Lesson 3
+
+### Insurance
+1.  Contractholder contract /pay insurance company a premium to protect them from certain risks    
+risk pooling(assume independence) $\sigma=\sqrt{p(1-p)/n}$
+meaning   
+ **The stand deviation of something is the sqart root of $p(1-p)$.**
+As n goes large, standard deviation approaches zero.    
+
+    Not ideal when facing Moral hazard and selection bias.
+    One famous is farmers buy corp  insurance which has been centuries.
+2. insurance developed because of specific technical advances like the development of actuarial theory    
+    **milestones in insurance history**   
+    * 1600s life table for life insurance
+    * In 1840, Morris Robinson who is the head of the Mutual Life of New York, a mutual insurance company, got the idea that what insurance company really needs is insurance salesman.
+3. Insurance is a local phenomena
+4. FDIC insured, **Federal Deposit, Insurance Corporation**    
+    Prevent insurance failure    
+    Interesting thing is the lifetime PV
+    >The China Insurance Regulatory Commission has set up a state-owned non-profit called China Insurance Protection Fund that protects people against the failure of an insurance company.
+
+5. AIG's failure in 2008
+6. McCarran-Ferguson Act of 1945 delegated insurance regulation to the states *INCREASE*
+7. There was a non-profit called **National Association of Insurance Commissioners, NAIC, which is not government** *DECREASE* complexity
+
+### Health insurance
+History
+   * the first health insurance, apparently was in 1694.
+   * The first U.S. health insurance company was Franklin health insurance company of Massachusetts in 1850
+   * Health insurance with the **health maintenance organization Act** of 1973 which required employers with 25 or more employees to offer what's called an **HMO**
+   * In 1986, the U.S. Congress passed another law called EMTALA law. **Emergency Medical Treatment and Active Labor Act** which required hospitals and ambulance services to provide care to anyone needing emergency treatment.
+   * U.S. Pain Patient Protection and Affordable Care Act of 2010 called Obamacare
+
+### Disasters
+
+1. Earthquake    
+Haitian not well insured
+
+2. Terrorism    
+So in 2002, the United States Congress passed the TRIA, the Terrorism Risk Insurance Act of 2002 which required nsurers to offer terrorism insurance for three years. 
