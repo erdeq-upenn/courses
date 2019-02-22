@@ -106,4 +106,24 @@ History
 Haitian not well insured
 
 2. Terrorism    
-So in 2002, the United States Congress passed the TRIA, the Terrorism Risk Insurance Act of 2002 which required nsurers to offer terrorism insurance for three years. 
+So in 2002, the United States Congress passed the TRIA, the Terrorism Risk Insurance Act of 2002 which required nsurers to offer terrorism insurance for three years.
+
+## Lesson 4
+
+1. diversification of ownership    
+And that you have to manage your risk by diversifying across a number of different assets, not putting all your eggs in one basket.
+2. serve quantified risks and returns and I calculate the optimum
+    > **Risk-neutral measurement** (also called an equilibrium measure, or equivalent martingale measure) is a probability measure such that each share price is exactly equal to the discounted expectation of the share price under this measure.  
+
+3. Care the mean and variance of the return on your whole portfolio.(**CAPM Harry Markowitz**)
+    > you have to take account of each asset that you invest in. How does it contribute to your overall portfolio variance and portfolio expected return?
+
+4. risk can be described by a variance matrix
+5. **hedge funds** are investment companies that are **not** approved for the general retail market. So they're not allowed to advertise. They're not well-known, because they're not allowed to promote themselves, except through private conversations, and to invest in them you have to be an accredited investor, not a general investor. So they are allowed to do sophisticated and dangerous things.
+    >**Accredited investors** include natural high net worth individuals (HNWI), banks, insurance companies, brokers and trusts. The high net worth club is $1 million in liquid financial assets.
+
+6. Regulation before 2008-2009 crisis, was mostly micro-credential. That means they wanted to make sure that you as an investor weren't being ripped off by this stockbroker who was squirreling away your money. But we've now had new impetus for macro-credential regulation, and it's now regulation about how interconnected are you with other.
+7. Nassim Taleb, who had a book called the **Black Swan**, that talked about rare, low-probably events as being sometimes really big.
+
+### CAPM
+1. The capital asset pricing model. It's a model of the optimal portfolio. It asserts that all investors will hold the optimal portfolio. 
