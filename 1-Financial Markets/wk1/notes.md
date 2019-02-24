@@ -2,6 +2,17 @@ Financial Markets
 ===
 by Robert Shiller
 # Week 1
+## Learning Objectives    
+* Discuss the relevance of this course in everyday life and the importance of ethical judgements in finance.
+* Understand the main sources of risk a security is subject to, and the main methods used to evaluate risk of an entire portfolio.
+* Describe why an investment may be considered high risk, and the sources of the so called 'disaster risk.'
+* List the key events in the history of insurance, and how insurance differs between the state and national level in the U.S.
+Identify the qualitative differences between the normal and fat tail distributions, and give examples of risk pooling, moral hazard and selection bias.
+* Understand the principle of risk diversification.
+Explain the Capital Asset Pricing Model (CAPM), and the role of short-selling within the model.
+* Recall how to compute optimal risk-return portfolios.
+Understand the concept of efficient frontier in portfolio management.    
+
 ## Lesson 1
 
 1. Finance is to make things happen rather than just make money
@@ -110,20 +121,110 @@ So in 2002, the United States Congress passed the TRIA, the Terrorism Risk Insur
 
 ## Lesson 4
 
-1. diversification of ownership    
+### diversification of ownership    
 And that you have to manage your risk by diversifying across a number of different assets, not putting all your eggs in one basket.
-2. serve quantified risks and returns and I calculate the optimum
+1. serve quantified risks and returns and I calculate the optimum
     > **Risk-neutral measurement** (also called an equilibrium measure, or equivalent martingale measure) is a probability measure such that each share price is exactly equal to the discounted expectation of the share price under this measure.  
 
-3. Care the mean and variance of the return on your whole portfolio.(**CAPM Harry Markowitz**)
+2. Care the mean and variance of the return on your whole portfolio.(**CAPM Harry Markowitz**)
     > you have to take account of each asset that you invest in. How does it contribute to your overall portfolio variance and portfolio expected return?
 
-4. risk can be described by a variance matrix
-5. **hedge funds** are investment companies that are **not** approved for the general retail market. So they're not allowed to advertise. They're not well-known, because they're not allowed to promote themselves, except through private conversations, and to invest in them you have to be an accredited investor, not a general investor. So they are allowed to do sophisticated and dangerous things.
+3. risk can be described by a variance matrix
+4. **hedge funds** are investment companies that are **not** approved for the general retail market. So they're not allowed to advertise. They're not well-known, because they're not allowed to promote themselves, except through private conversations, and to invest in them you have to be an accredited investor, not a general investor. So they are allowed to do sophisticated and dangerous things.
     >**Accredited investors** include natural high net worth individuals (HNWI), banks, insurance companies, brokers and trusts. The high net worth club is $1 million in liquid financial assets.
 
-6. Regulation before 2008-2009 crisis, was mostly micro-credential. That means they wanted to make sure that you as an investor weren't being ripped off by this stockbroker who was squirreling away your money. But we've now had new impetus for macro-credential regulation, and it's now regulation about how interconnected are you with other.
-7. Nassim Taleb, who had a book called the **Black Swan**, that talked about rare, low-probably events as being sometimes really big.
+5. Regulation before 2008-2009 crisis, was mostly micro-credential. That means they wanted to make sure that you as an investor weren't being ripped off by this stockbroker who was squirreling away your money. But we've now had new impetus for macro-credential regulation, and it's now regulation about how interconnected are you with other.
+6. Nassim Taleb, who had a book called the **Black Swan**, that talked about rare, low-probably events as being sometimes really big.
 
 ### CAPM
-1. The capital asset pricing model. It's a model of the optimal portfolio. It asserts that all investors will hold the optimal portfolio. 
+1. The capital asset pricing model. It's a model of the optimal portfolio. It asserts that all investors will hold the optimal portfolio.
+2. The CAMP implies the expected return on the ith asset determined from its beta.
+    $\beta$ is the regression slope Coefficient where the return on the ith asset is regressed on the return of market
+3. you're too small to diversify. So you need some company to help you diversify your portfolio. So, the idea has been going back many decades, that people need investment funds to manage their portfolio for them and the investment funds can diversify optimally for them. So before the 1940s, we had what were called **investment trusts. Later they became a different form called the mutual fund**.
+4. **equity premium puzzle**. Jeremy Siegle at Wharton equity showed 6.6% stock return rather short term government bond is 2.7%. But why not all people invest in stock?
+5. gold is a negative $\beta$ asset
+
+### Short sales
+1. Owns a negative quantity of stocks    
+   Borrow the share and sell them.
+   Rational assumption
+2. leverage and being wiped out on risk free asset    
+    $r=xr_1+(1-x)r_f$    
+    $\Delta=|\frac{r-r_f}{r_1-r_f}|$    
+    $var(r) = x^2var(r1)$    
+    $\sigma = \Delta \sigma(r_1)$
+3. two risk asset $r_1$ and $r_2$    
+  $r=xr_1+(1-x)r_f$    
+  $var(r)=x_1^2var(r_1)+x_2^2var(r_2)+x_1(1-x_1)cov(r_1,r_2)$   
+  So a **positive** Cov is not good in lowering the risks
+
+### Efficient portfolio Frontier    
+**efficient portfolio frontier** which expresses the standard deviation of the portfolio in terms of r the expected return on the portfolio instead of $x_1$.
+* Picture r vs. $\sigma$
+* dominated area: University endowments
+
+### Gorden Growth model
+Gorden gave a formula for the present value of a growing quantity.
+$PV = \frac{x}{r-g}$
+
+#Week 2
+##Learning Objectives    
+* Understand the concept of limited liability and its connections with psychology, risk diversification and corporate finance.
+Describe inflation indexed debt, and monetary innovation designed to tackle hyperinflation.
+* Understand the basics of the real estate market, assumptions behind forecasting the stock market, and the basic framework to price a stock.
+* Describe the key intuition and definitions behind the Efficient Market Hypothesis, and why it might only be half-truth.
+Understand the basics of the real estate market, assumptions behind forecasting the stock market, and the basic framework to price a stock.
+* Describe the key intuition and definitions behind the Efficient Market Hypothesis, and why it might only be half-truth.
+To describe and provide examples of the wishful thinking bias and of cognitive dissonance.
+* List the key features of Antisocial Personality Disorder and Borderline Personality Disorder.
+
+### inventions take time
+### Limited liability
+1. **limited liability** credit New York State with inventing the full dimension of this idea in 1811.    
+The idea is that investors, in order to be encouraged to invest in businesses, should have protection against liability for what the managers of the business do. They should have limited liability.
+2. compare to lottery
+3. The other thing about limited liability, is that it created the whole idea of holding a diversified portfolio.
+
+### Inflation Indexed Debt
+to define that in terms of a consumer price index.
+1. eg. Japan rice bonds
+2. The first indexed debt was invented here in the United States in 1780, and it occurred because of inflation.
+    >As Plato said, necessity is the mother of invention.
+
+### Unidad de Fomento
+1. Now money has several functions. It's a store value and a unit of account and a means of transactions.
+
+### Real estate risk management devices.
+
+
+## Lesson 6
+### forecasting
+What would Efficient Market Theory say should be the forecast?
+That would be the efficient markets hypothesis taking account of the fact that there's a growth. It's not a random walk, but it's a **random walk with growth**.    
+
+The random walk theory: Karl Pearson in 1905
+> a random walk is a process that changes in such a way that each change is independent of previous changes and totally unforecastable.
+
+Burton Malkiel, random walk.
+
+1. random walk: $x_t = t_{t-1}+\epsilon_t$
+
+2. AR-I (first order autoregressive model): $x_t=100+\rho(x_{t-1}-100)+\epsilon_t$  
+    * like he has a elastic band on him  
+    * Mean reverting to (100) start point
+3. AR-1 is closer to the start point
+
+### Intuition of Efficiency
+* Reuter's pigeons and the telegraph (1840 Samuel Morse)
+* Market is Efficient
+* Publicly available, relevant information will lead to correct pricing of freely traded securities in properly functioning markets
+* Three forms of the market efficienty   
+  >Weak form is that information in past prices can't help you to forecast, the semi-strong form of efficient markets is that all publicly information is already incorporated in the market prices, and the strong form is that all information including inside information held by the companies is already incorporated in the stock prices, prices because it leaks out.
+
+### Price as PDV
+1. Price of a stock should be the present discounted value of expected dividents.
+2. Gorden Model: $P=E/(r-g)$ or P/E =$\frac{1}{r-g}$
+3. P/E ratio: if someone is buyting a high P/E ratio stock, it means:  
+  the market has decide either that this stock is very **good**, in terms of **risk, that's r**, or that the **growth rate** of the earnings of this company is going to be phenomenal.
+4. Different industries
+5. 
