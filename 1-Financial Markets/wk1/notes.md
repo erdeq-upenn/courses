@@ -226,5 +226,24 @@ Burton Malkiel, random walk.
 2. Gorden Model: $P=E/(r-g)$ or P/E =$\frac{1}{r-g}$
 3. P/E ratio: if someone is buyting a high P/E ratio stock, it means:  
   the market has decide either that this stock is very **good**, in terms of **risk, that's r**, or that the **growth rate** of the earnings of this company is going to be phenomenal.
-4. Different industries
-5. 
+4. Different industries & countries
+
+### Doubting Efficiency market
+1. half true
+2. The stock market has a tendency to fall before a recession.
+
+## Lesson 7
+### Behavioral finance
+1. Adam Smith *The wealth of nations*   
+   > invisible hand, that the free market is the invisible hand that's directing the economy.
+
+### Prospect Theory
+Kahnemana and Tversky, in 1979   
+  > so, the economic profession tends to used the idea that everyone has a utility function, which depends on the things that they consume and it represents their happiness.
+
+1. One, they replaced the utility function with what they called a value function.
+2. two, they replaced the probabilities with subjective probabilities determined by a weighting function in terms of the actual probabilities.  
+
+Prospect Theory weighting function
+* People worries about small gains/losses
+* people gamble out of losses
